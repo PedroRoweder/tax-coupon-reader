@@ -5,7 +5,7 @@ const HeaderComponent = () => {
     return (
         <div>
             <h1 className="text-center">Tax Coupon Reader</h1>
-            <p className="text-center">Upload your to read the CNPJ, COO, Date and Time informations!</p>
+            <p className="text-center">Upload your coupon image to read the CNPJ, COO, Date and Time informations!</p>
         </div>
     )
 }
